@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Project Diagrams</title>
+
+
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css'>
+
+  <link rel="stylesheet" href="css/style.css">
+
+
+</head>
+
+<body>
+
+
+  <html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>KFUPM Calender</title>
+    <meta name="description" content="The enhanced Calender">
+    <meta name="author" content="khaled" >
+
+
+  </head>
+
+  <body>
+
+    <div class="container-fluid">
+      <div class="row">
+        <h1 class="centered">KFUPM Calendar<h1>
+  </div>
+  <hr>
+  <br>
+  <div class="row">
+  <img src="diagrams/AccessModel.png" alt="AccessModel.png">
+  
+  </div>
+  <div class="row">
+  <img src="diagrams/ClassDiagram.png" alt="ClassDiagram.png">
+  
+  </div>
+  <div class="row">
+  <img src="diagrams/UseCase.png" alt="UseCase.png">
+  
+  </div>  
+  
+  
+  </div>
+</body>
+</html>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js'></script>
+
+  
+</body>
+</html>
