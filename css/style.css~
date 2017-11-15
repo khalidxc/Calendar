@@ -1,0 +1,13 @@
+.centered{
+    float: none;
+    margin: 0 auto;
+}
+
+body {
+  margin: 0 8%;
+}
+
+img.zoomIt:hover {
+	width: 70%;
+	height: 70%;
+}
