@@ -34,7 +34,17 @@
       <div class="row">
         <h1 class="centered">KFUPM Calendar<h1>
   </div>
+  
   <hr>
+  <div class="NavigationBar">
+      <div class="NavItems leftNavItems"> <a href="index.html"> Home: Description </a> </div>
+      <div class="NavItems"> <a href="#notYet"> Phase 1: Requirements  </a> </div>
+      <div class="NavItems"> <a href="diagramms.html"> Assignment #2  </a> </div>
+      <div class="NavItems"> <a href="#NotYet"> Phase 2: Design </a> </div>
+      <div class="NavItems"> <a href="#NotYet"> Phase 3: Calender KFUPM website </a> </div>
+    </div>
+  </nav>
+  <br><br>
   <br>
   <div class="row ">
   <h3 class="col-md-12 centered">UseCase.png</h3>
