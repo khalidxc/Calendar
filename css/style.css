@@ -1,8 +1,41 @@
 .centered{
     float: none;
     margin: 0 auto;
+    font-size: 2em;
 }
 
 body {
   margin: 0 8%;
+}
+
+.NavigationBar{
+  text-align: center;
+  float: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.NavItems, .NavItems a {
+  float: left;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 7px;
+  text-decoration: none;
+}
+
+div.leftNavItems {
+  float: left;
+  background-color: green;
+  border-right: solid 1px;
+}
+
+div.NavItems:hover {
+  background-color: black;
+}
+
+div.rightNavItems:hover {
+  background-color: green;
 }
