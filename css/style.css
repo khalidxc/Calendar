@@ -8,6 +8,11 @@ body {
   margin: 0 8%;
 }
 
+img.zoomIt:hover {
+  width: 70%;
+  height: 70%;
+}
+
 .NavigationBar{
   text-align: center;
   float: none;
