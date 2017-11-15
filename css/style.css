@@ -35,7 +35,3 @@ div.leftNavItems {
 div.NavItems:hover {
   background-color: black;
 }
-
-div.rightNavItems:hover {
-  background-color: green;
-}
