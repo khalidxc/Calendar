@@ -9,8 +9,17 @@ body {
 }
 
 img.zoomIt:hover {
+  position: fixed;
   width: 70%;
   height: 70%;
+  /*display: inline;*/
+  z-index: 50;
+
+  left: 50px;
+  right: 50px;
+  /*margin: 0 auto;*/
+  /*-webkit-transform:scale(1.5);
+    transform:scale(1.5);*/
 }
 
 .NavigationBar{
